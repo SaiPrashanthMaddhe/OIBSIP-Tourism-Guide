@@ -5,7 +5,7 @@ Web Development Virtual Internship projects .
 Usage
 To use or modify this landing page, follow the instructions below:
 
-Clone the repository: git clone https://github.com/arunpwr2712/oiasis-infobyte-task-1.git
+Clone the repository: https://github.com/SaiPrashanthMaddhe/Tourism-Guide.git
 
 Open the project in your preferred code editor.
 
